@@ -23,7 +23,4 @@ SaiCafe is a Online canteen food ordering and management system based on a scena
 - To install the SaiCafe app, download and install XAMPP, download this repository and put into directory (C:/xampp/htdocs/), import database and name it saicafe in phpMyAdmin (http://localhost/phpmyadmin) using file Saicafe.sql, start Apache and MySQL services, then run and access by using web browser (http://localhost/saicafe/) and enjoy.
 - You can register for the customer account and log in. To log in with shop account, press the log in with shop account under login page. Add shop account using the admin mode. Access admin mode by clicking at the first name in the footer at the customer log in page. You can look up 
 
-## Members
-- Magesh K
-- Keertheshwaran G
-- SelvaNarayanan A
+
